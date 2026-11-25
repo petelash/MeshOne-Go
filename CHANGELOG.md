@@ -4,6 +4,9 @@
 
 All notable user-facing changes to MeshOne Go, newest first.
 
+## 1.2.1
+- The project has moved to a new GitHub repository, [petelash/MeshOne-Go](https://github.com/petelash/MeshOne-Go). From this version the app checks for updates there. After installing it, tap *Check for updates* once to make sure you have the latest version.
+
 ## 1.2.0
 - **Contact permissions**: one new screen in Settings → Contacts and privacy replaces the three telemetry rows. For basic telemetry, location and environment you choose *Nobody*, *Selected contacts* or *Everybody*; with *Selected contacts* you pick the contacts one by one, or all favourites or all contacts at once. The same screen controls who may send **remote commands (CLI)** to your node.
 - **Command line for companions**: in a direct chat with a companion contact, the ⋮ menu has *Command line*. It works only if that contact allowed remote commands for you; if it does not answer, the app says so.
@@ -209,6 +212,9 @@ All notable user-facing changes to MeshOne Go, newest first.
 # Popis promjena (hrvatski)
 
 Sve važnije promjene u MeshOne Go za korisnike, od najnovije.
+
+## 1.2.1
+- Projekt se preselio u novi GitHub repozitorij, [petelash/MeshOne-Go](https://github.com/petelash/MeshOne-Go). Od ove verzije aplikacija ondje provjerava ažuriranja. Nakon instalacije jednom dodirni *Provjeri za ažuriranja* da potvrdiš da imaš najnoviju verziju.
 
 ## 1.2.0
 - **Dozvole kontakata**: novi ekran u Postavke → Kontakti i privatnost zamjenjuje tri retka telemetrije. Za osnovnu telemetriju, lokaciju i okolinu biraš *Nikome*, *Odabrani kontakti* ili *Svima*; kod *Odabranih kontakata* biraš kontakte jedan po jedan, ili sve favorite odnosno sve kontakte odjednom. Isti ekran određuje tko smije slati **udaljene naredbe (CLI)** tvom nodeu.
