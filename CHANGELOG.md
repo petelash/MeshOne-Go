@@ -4,6 +4,12 @@
 
 All notable user-facing changes to MeshOne Go, newest first.
 
+## 1.2.3
+
+- **Reply in direct messages**: long press a received message and pick *Reply*; the first few words of that message are quoted above your answer.
+- **Message path map**: node and repeater names are shown under their symbols, as on the main map; your own node is the flashing dot.
+- **Main map legend**: *My node* now has the same flashing dot as on the map. The dot is now the same size as the other node symbols.
+
 ## 1.2.2
 - **Automatic adding of contacts** now has a limit on how far away a new contact may be: a slider with − and + buttons, from 0 hops (direct only) to 32, or no limit (the default). It applies to the categories that are switched on. The window is also more compact.
 - **Show on top**: long press a contact to keep it at the top of the list, whatever the sort order (*Remove from top* undoes it). The other contacts stay ordered as before.
@@ -217,6 +223,12 @@ All notable user-facing changes to MeshOne Go, newest first.
 # Popis promjena (hrvatski)
 
 Sve važnije promjene u MeshOne Go za korisnike, od najnovije.
+
+## 1.2.3
+
+- **Odgovor na izravne poruke**: dugim pritiskom na primljenu poruku odaberi *Odgovori*; iznad tvog odgovora citira se nekoliko prvih riječi te poruke.
+- **Putanja poruke na karti**: ispod simbola pišu imena nodova i repetitora, kao na glavnoj karti; tvoj node je treptajuća točka.
+- **Legenda glavne karte**: *Moj node* sada ima istu treptajuću točku kao na karti. Točka je sada iste veličine kao simboli ostalih nodova.
 
 ## 1.2.2
 - **Automatsko dodavanje kontakata** sada ima ograničenje koliko novi kontakt smije biti udaljen: klizač s gumbima − i +, od 0 hopova (samo izravni) do 32, ili neograničeno (zadano). Vrijedi za uključene kategorije. Prozor je i zbijeniji.
