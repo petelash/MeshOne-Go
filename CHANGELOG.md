@@ -4,6 +4,11 @@
 
 All notable user-facing changes to MeshOne Go, newest first.
 
+## 1.2.2
+- **Automatic adding of contacts** now has a limit on how far away a new contact may be: a slider with − and + buttons, from 0 hops (direct only) to 32, or no limit (the default). It applies to the categories that are switched on. The window is also more compact.
+- **Show on top**: long press a contact to keep it at the top of the list, whatever the sort order (*Remove from top* undoes it). The other contacts stay ordered as before.
+- TX power: every value can now be picked (some, such as 12, 16 and 18 dBm, were skipped). The same fix applies to the spreading factor and coding rate sliders.
+
 ## 1.2.1
 - The project has moved to a new GitHub repository, [petelash/MeshOne-Go](https://github.com/petelash/MeshOne-Go). From this version the app checks for updates there. After installing it, tap *Check for updates* once to make sure you have the latest version.
 
@@ -212,6 +217,11 @@ All notable user-facing changes to MeshOne Go, newest first.
 # Popis promjena (hrvatski)
 
 Sve važnije promjene u MeshOne Go za korisnike, od najnovije.
+
+## 1.2.2
+- **Automatsko dodavanje kontakata** sada ima ograničenje koliko novi kontakt smije biti udaljen: klizač s gumbima − i +, od 0 hopova (samo izravni) do 32, ili neograničeno (zadano). Vrijedi za uključene kategorije. Prozor je i zbijeniji.
+- **Prikaži na vrhu**: dugim pritiskom na kontakt zadržiš ga na vrhu popisa, bez obzira na redoslijed (*Ukloni s vrha* to poništava). Ostali kontakti redaju se kao dosad.
+- TX snaga: sada se mogu odabrati sve vrijednosti (neke, npr. 12, 16 i 18 dBm, preskakale su se). Isto je popravljeno na klizačima za spreading factor i coding rate.
 
 ## 1.2.1
 - Projekt se preselio u novi GitHub repozitorij, [petelash/MeshOne-Go](https://github.com/petelash/MeshOne-Go). Od ove verzije aplikacija ondje provjerava ažuriranja. Nakon instalacije jednom dodirni *Provjeri za ažuriranja* da potvrdiš da imaš najnoviju verziju.
