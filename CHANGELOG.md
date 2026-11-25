@@ -4,6 +4,12 @@
 
 All notable user-facing changes to MeshOne Go, newest first.
 
+## 1.2.4
+
+- **Long press for help**: long press a command button (also in the list of all commands) to see what it does, what value it takes and what it shows. The same works for the buttons in contact details and in the message route window (Chat, Log in, Trace, Discover path, Route, Reset path, status, telemetry, contact actions). It replaces the ? icon, which was not visible.
+- Fixed the description of the *region load* command.
+- **Contact categories** are now ordered *All*, ⭐ (favourites), *Users* (previously *Chat*), then the rest.
+
 ## 1.2.3
 
 - **Reply in direct messages**: long press a received message and pick *Reply*; the first few words of that message are quoted above your answer.
@@ -223,6 +229,12 @@ All notable user-facing changes to MeshOne Go, newest first.
 # Popis promjena (hrvatski)
 
 Sve važnije promjene u MeshOne Go za korisnike, od najnovije.
+
+## 1.2.4
+
+- **Objašnjenje na dugi pritisak**: dugim pritiskom na gumb naredbe (i na popisu svih naredbi) vidiš što radi, koju vrijednost prima i što pokazuje. Isto vrijedi za gumbe u detaljima kontakta i u prozoru za rutu poruka (Chat, Prijava, Trace, Otkrij putanju, Ruta, Reset putanje, status, telemetrija, radnje s kontaktom). To zamjenjuje ikonu ?, koja se nije vidjela.
+- Ispravljen opis naredbe *region load*.
+- **Kategorije kontakata** sada idu redom *Svi*, ⭐ (favoriti), *Korisnici* (prije *Chat*), pa ostale.
 
 ## 1.2.3
 
