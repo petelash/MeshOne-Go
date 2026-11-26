@@ -4,6 +4,10 @@
 
 All notable user-facing changes to MeshOne Go, newest first.
 
+## 1.2.5
+
+- **Coordinates in messages** (e.g. 45.562095,18.648674) are now links. Tap one to choose where to open it: the app's map, Google Maps, Apple Maps (in the browser) or another app, or copy it.
+
 ## 1.2.4
 
 - **Long press for help**: long press a command button (also in the list of all commands) to see what it does, what value it takes and what it shows. The same works for the buttons in contact details and in the message route window (Chat, Log in, Trace, Discover path, Route, Reset path, status, telemetry, contact actions). It replaces the ? icon, which was not visible.
@@ -229,6 +233,10 @@ All notable user-facing changes to MeshOne Go, newest first.
 # Popis promjena (hrvatski)
 
 Sve važnije promjene u MeshOne Go za korisnike, od najnovije.
+
+## 1.2.5
+
+- **Koordinate u porukama** (npr. 45.562095,18.648674) sada su poveznice. Dodirom biraš gdje ih otvoriti: na karti aplikacije, u Google Maps, Apple Maps (u pregledniku) ili drugoj aplikaciji, ili ih kopiraš.
 
 ## 1.2.4
 
