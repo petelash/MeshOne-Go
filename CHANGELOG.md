@@ -4,6 +4,10 @@
 
 All notable user-facing changes to MeshOne Go, newest first.
 
+## 1.2.6
+
+- **Contact circle colour:** long press a contact and choose "Circle colour" to pick one of 16 colours, or go back to automatic.
+
 ## 1.2.5
 
 - **Coordinates in messages** (e.g. 45.562095,18.648674) are now links. Tap one to choose where to open it: the app's map, Google Maps, Apple Maps (in the browser) or another app, or copy it.
@@ -233,6 +237,10 @@ All notable user-facing changes to MeshOne Go, newest first.
 # Popis promjena (hrvatski)
 
 Sve važnije promjene u MeshOne Go za korisnike, od najnovije.
+
+## 1.2.6
+
+- **Boja kruga kontakta:** dugim pritiskom na kontakt odaberi "Boja kruga" i uzmi jednu od 16 boja ili vrati automatsku.
 
 ## 1.2.5
 
