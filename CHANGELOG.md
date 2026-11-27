@@ -4,6 +4,10 @@
 
 All notable user-facing changes to MeshOne Go, newest first.
 
+## 1.2.8
+
+- Message path map: nodes are now always drawn at their real positions, at every zoom level. Nodes that stand very close together can overlap when the map is zoomed out; zoom in to tell them apart.
+
 ## 1.2.7
 
 - **Message path map:** with "All" selected, every route is now visible. Nodes that stand close together are drawn a little apart so that none is hidden, and their names no longer cover each other. Zoom in and they return to their real places; zoom out and the gaps shrink together with the map.
@@ -241,6 +245,10 @@ All notable user-facing changes to MeshOne Go, newest first.
 # Popis promjena (hrvatski)
 
 Sve važnije promjene u MeshOne Go za korisnike, od najnovije.
+
+## 1.2.8
+
+- Karta putanje poruke: nodovi su sada uvijek na stvarnim pozicijama, na svakom zumu. Nodovi koji stoje vrlo blizu mogu se preklapati kad je karta udaljena; približi kartu da ih razdvojiš.
 
 ## 1.2.7
 
