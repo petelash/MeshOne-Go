@@ -4,6 +4,10 @@
 
 All notable user-facing changes to MeshOne Go, newest first.
 
+## 1.2.7
+
+- **Message path map:** with "All" selected, every route is now visible. Nodes that stand close together are drawn a little apart so that none is hidden, and their names no longer cover each other. Zoom in and they return to their real places; zoom out and the gaps shrink together with the map.
+
 ## 1.2.6
 
 - **Contact circle colour:** long press a contact and choose "Circle colour" to pick one of 16 colours, or go back to automatic.
@@ -237,6 +241,10 @@ All notable user-facing changes to MeshOne Go, newest first.
 # Popis promjena (hrvatski)
 
 Sve važnije promjene u MeshOne Go za korisnike, od najnovije.
+
+## 1.2.7
+
+- **Karta putanje poruke:** uz odabrano "Sve" sada se vide sve rute. Nodovi koji su blizu jedan drugome crtaju se malo razmaknuti da nijedan ne bude skriven, a imena im se više ne prekrivaju. Kad približiš kartu, vraćaju se na stvarna mjesta, a kad je udaljiš, razmak se smanjuje zajedno s kartom.
 
 ## 1.2.6
 
