@@ -4,6 +4,10 @@
 
 All notable user-facing changes to MeshOne Go, newest first.
 
+## 1.2.9
+
+- Direct chats: delivery time is shown in seconds (e.g. 12.345 s) instead of milliseconds, and "direct" under a message now reads "routed".
+
 ## 1.2.8
 
 - Message path map: nodes are now always drawn at their real positions, at every zoom level. Nodes that stand very close together can overlap when the map is zoomed out; zoom in to tell them apart.
@@ -245,6 +249,10 @@ All notable user-facing changes to MeshOne Go, newest first.
 # Popis promjena (hrvatski)
 
 Sve važnije promjene u MeshOne Go za korisnike, od najnovije.
+
+## 1.2.9
+
+- Privatni razgovori: vrijeme dostave prikazuje se u sekundama (npr. 12.345 s) umjesto u milisekundama, a ispod poruke umjesto "direktno" sada piše "rutom".
 
 ## 1.2.8
 
